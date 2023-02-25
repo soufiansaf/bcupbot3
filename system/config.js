@@ -1,11 +1,11 @@
 // Owner number
-global.owner = '6285887776722'
+global.owner = '212632244668'
 // Owner name
-global.owner_name = 'Wildan Izzudin'
+global.owner_name = 'Mohamed Bella'
 // Database name (Default: database)
 global.database = 'database'
 // Maximum upload file size limit (Default : 100 MB)
-global.max_upload = 100
+global.max_upload = 200
 // Delay for spamming protection (Default : 3 seconds)
 global.cooldown = 3
 // User Limitation (Default : 25)
@@ -15,7 +15,7 @@ global.timer = 1800000
 // Symbols that are excluded when adding a prefix (Don't change it)
 global.evaluate_chars = ['=>', '~>', '<', '>', '$']
 // Country code that will be automatically blocked by the system, when sending messages in private chat
-global.blocks = ['91', '92', '94', '94', '212']
+global.blocks = ['91', '92', '94', '94']
 // Put target jid to forward friends story
 global.forwards = global.owner + '@c.us'
 // Get neoxr apikey by registering at https://api.neoxr.my.id
@@ -28,9 +28,9 @@ global.timezone = 'Asia/Jakarta'
 // Bot version
 global.version = '2.2.2',
 // Bot name
-global.botname = `© neoxr-bot v${global.version} (Public Bot)`
+global.botname = `© bella-bot v${global.version} (Public Bot)`
 // Footer text
-global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ɴᴇᴏxʀ ッ'
+global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ  BELLA ッ'
 // Global status
 global.status = Object.freeze({
    wait: Func.texted('bold', 'Processed . . .'),
